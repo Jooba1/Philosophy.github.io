@@ -1,1 +1,2 @@
-# Philosophy.github.io
+# Phil-osophy
+Quotes
