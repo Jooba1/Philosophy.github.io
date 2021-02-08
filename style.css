@@ -26,20 +26,3 @@ body {
   border-radius: 5px;
   padding-bottom: 20px;
 }
-
-@media (max-width: 1000px) {
-  .section {
-    width: 100%;
-    height: auto;
-  }
-}
-
-@media (max-width: 900px) {
-  .section {
-    width: 100%;
-    height: auto;
-  }
-  .div {
-    font-size: 40px;
-  }
-}
