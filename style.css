@@ -29,13 +29,13 @@ body {
 
 @media (max-width: 900px) {
   .section {
-    position: fixed;
-    top: 70%;
-    left: 50%;
+    position: realtive;
+   margin-top: 500px;
     width: 100%;
     height: auto;
   }
   .div {
-    font-size: 40px;
+    font-size: 25px;
+    font-family: fantasy;
   }
 }
